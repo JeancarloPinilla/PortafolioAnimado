@@ -1,8 +1,0 @@
-# Ignorar todo
-*
-
-# Excepto el index.html
-!index.html
-
-# Excepto el archivo .gitignore mismo
-!.gitignore
